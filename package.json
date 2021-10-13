@@ -1,0 +1,9 @@
+{
+    "name": "gulp-web",
+    "version": "1.0.0",
+    "description": "project using gulp",
+    "author": "Alexei Boiko",
+    "devDependencies": {
+        "gulp": "^4.0.2"
+    }
+}
